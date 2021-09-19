@@ -1,13 +1,13 @@
 # Landing Page Project
+>A landing page created for a front-end development course to showcase basic Javascript skills
 
-## Table of Contents
+## Objective
+The goal of this project is to be able to combine the skills learnt so far in the Front-End Development course which comprises HTML, CSS and Javascript.
 
-* [Instructions](#instructions)
+### Structure
+- `/index.html` Main landing page
+- `js/app.js` Implementation of the dynamic navigation bar
+- `css/style.css` Stylesheet for the website
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+#### Dependencies
+This landing page should work on different types of devices such as modern desktop, tablet, and phone browsers.
