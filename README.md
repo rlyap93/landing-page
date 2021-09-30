@@ -9,5 +9,7 @@ The goal of this project is to be able to combine the skills learnt so far in th
 - `js/app.js` Implementation of the dynamic navigation bar
 - `css/style.css` Stylesheet for the website
 
-#### Dependencies
+#### How to Run
+
+##### Dependencies
 This landing page should work on different types of devices such as modern desktop, tablet, and phone browsers.
